@@ -67,4 +67,3 @@ The dataset used in this project includes:
 2. Place the dataset `blinkit_data.csv` in the project directory
 3. Run the analysis script using:
 ```bash
-python blinkit_analysis.py
